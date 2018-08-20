@@ -11,7 +11,7 @@ None whatsoever; simply bring a sense of curiosity and adventure :)
 
 To give you a sense of the variety you'll find around here, here's a random sampling of essays:
 
-- [Best Reactive Programming Books](http://programming-digressions.blogspot.com/2017/08/best-reactive-programming-books-this.html))
+- [Best Reactive Programming Books](http://programming-digressions.blogspot.com/2017/08/best-reactive-programming-books-this.html)
 - [Eventual Consistency can be a Good Thing](http://programming-digressions.blogspot.com/2017/08/eventual-consistency-can-be-good-thing.html)
 - [Best Algorithms Books (Part 2) ](http://programming-digressions.blogspot.com/2017/09/best-algorithms-books-part-2.html)
 - [Return of Plato And The Nerd ](http://programming-digressions.blogspot.com/2017/10/return-of-plato-and-nerd.html)
