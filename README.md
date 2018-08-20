@@ -9,6 +9,4 @@ Hi there! I'm a Principal Software Engineer at Dell Technologies (in the IoT Sol
 
 None whatsoever; simply a sense of curiosity and adventure :)
 
-```
 - [Best Reactive Programming Books](http://programming-digressions.blogspot.com/2017/08/best-reactive-programming-books-this.html))
-```
