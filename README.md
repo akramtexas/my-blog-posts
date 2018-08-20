@@ -7,7 +7,7 @@ Hi there! I'm a Principal Software Engineer at Dell Technologies (in the IoT Sol
 
 ### Prerequisites (to reading!)
 
-None whatsoever; simply a sense of curiosity and adventure :)
+None whatsoever; simply bring a sense of curiosity and adventure :)
 
 To give you a sense of the variety you'll find around here, here's a random sampling of essay:
 
